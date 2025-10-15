@@ -21,7 +21,7 @@ builder.Services.AddDiscordHost((config, _) =>
         GatewayIntents = GatewayIntents.All,
     };
 
-    config.Token = "ODMzMjA2Nzc1MjcxNjUzNDA3.GCThGy.s7FKV4cBV4zWNxmq0IYyYg0Xa9dhgNd0nSPaXc";
+    config.Token = "";
 });
 
 
